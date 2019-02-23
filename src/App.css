@@ -1,0 +1,19 @@
+
+
+
+.App{
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; 
+  color: white;
+  height: 650px;
+}
+
+
+h6,.control{
+  display: flex;  
+  justify-content:space-around;
+  padding-right: 10%;
+}
